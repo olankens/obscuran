@@ -14,7 +14,7 @@
               }
             }
           ],
-          "glass" : false,
+          "glass" : true,
           "image-name" : "tradingview.svg",
           "name" : "tradingview",
           "position" : {
