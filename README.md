@@ -28,13 +28,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 
 ### Development
 
-<img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src="src/icons/cursor/cursor.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
 
 ---
 
 ### Graphics
 
-<img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src="src/icons/figma/figma.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
 
 ---
 
