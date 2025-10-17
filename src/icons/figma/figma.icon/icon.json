@@ -1,22 +1,11 @@
 {
-  "fill-specializations" : [
-    {
-      "value" : {
-        "automatic-gradient" : "extended-srgb:0.00000,0.53333,1.00000,1.00000"
-      }
-    },
-    {
-      "appearance" : "dark",
-      "value" : {
-        "solid" : "extended-gray:0.00000,1.00000"
-      }
-    }
-  ],
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.00000,0.53333,1.00000,1.00000"
+  },
   "groups" : [
     {
       "layers" : [
         {
-          "glass" : true,
           "image-name" : "figma.svg",
           "name" : "figma",
           "position" : {

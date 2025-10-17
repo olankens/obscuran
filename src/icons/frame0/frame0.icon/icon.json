@@ -1,17 +1,7 @@
 {
-  "fill-specializations" : [
-    {
-      "value" : {
-        "automatic-gradient" : "extended-srgb:0.00000,0.53333,1.00000,1.00000"
-      }
-    },
-    {
-      "appearance" : "dark",
-      "value" : {
-        "solid" : "extended-gray:0.00000,1.00000"
-      }
-    }
-  ],
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.00000,0.53333,1.00000,1.00000"
+  },
   "groups" : [
     {
       "layers" : [
@@ -20,7 +10,7 @@
             {
               "appearance" : "dark",
               "value" : {
-                "automatic-gradient" : "srgb:1.00000,1.00000,1.00000,1.00000"
+                "solid" : "extended-gray:1.00000,1.00000"
               }
             }
           ],
@@ -28,7 +18,7 @@
           "image-name" : "frame0.svg",
           "name" : "frame0",
           "position" : {
-            "scale" : 38,
+            "scale" : 40,
             "translation-in-points" : [
               10,
               0
