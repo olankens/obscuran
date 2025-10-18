@@ -44,8 +44,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 
 # <samp>GUIDANCE</samp>
 
-### Generate All ICNS Files
+### Create All ICNS Files
 
 ```shell
 bash src/scripts/create-icns.sh
+```
+
+### Remove DS_Store Files
+
+```shell
+find ~ -name ".DS_Store" -delete
 ```
