@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 bash src/scripts/create-icns.sh
 ```
 
-### Remove DS_Store Files
+### Delete All DS_Store Files
 
 ```shell
 find ~ -name ".DS_Store" -delete
