@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 
 ### Network
 
-<img src="src/icons/chromium/chromium.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/jdownloader/jdownloader.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/joal-desktop/joal-desktop.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/transmission/transmission.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src="src/icons/chromium/chromium.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/jdownloader/jdownloader.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/joal-desktop/joal-desktop.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/netnewswire/netnewswire.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/transmission/transmission.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
 
 ### Social
 
