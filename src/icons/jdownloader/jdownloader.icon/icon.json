@@ -4,12 +4,20 @@
   },
   "groups" : [
     {
+      "hidden" : false,
       "layers" : [
         {
+          "fill-specializations" : [
+            {
+              "appearance" : "dark",
+              "value" : "automatic"
+            }
+          ],
+          "glass" : true,
           "image-name" : "jdownloader2.png",
           "name" : "jdownloader2",
           "position" : {
-            "scale" : 1.5,
+            "scale" : 1.6,
             "translation-in-points" : [
               0,
               0
@@ -21,6 +29,7 @@
         "kind" : "neutral",
         "opacity" : 0.5
       },
+      "specular" : true,
       "translucency" : {
         "enabled" : true,
         "value" : 0.5
