@@ -37,3 +37,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 ### Utility
 
 <img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+
+# <samp>GUIDANCE</samp>
+
+### Generate ICNS Files
+
+```shell
+bash src/scripts/create-icns.sh
+```
