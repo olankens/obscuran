@@ -32,13 +32,13 @@ Obscuran is a carefully curated icon pack for macOS, created to address the padd
 
 ### Development
 
-<img src="src/new/android-studio/android-studio.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/cursor/cursor.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/datagrip/datagrip.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/dbeaver/dbeaver.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/goland/goland.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/intellij-idea/intellij-idea.png" width="15.625%"/><img src="src/new/iterm2/iterm2.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/pycharm/pycharm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/rider/rider.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/vscode/vscode.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/webstorm/webstorm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/xcode/xcode.png" width="15.625%"/>
+<img src="src/new/android-studio/android-studio.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/cursor/cursor.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/datagrip/datagrip.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/dbeaver/dbeaver.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/goland/goland.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/intellij-idea/intellij-idea.png" width="15.625%"/><img src="src/new/pycharm/pycharm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/rider/rider.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/vscode/vscode.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/webstorm/webstorm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/xcode/xcode.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
 
 <hr>
 
 ### Graphics
 
-<img src="src/new/comfyui/comfyui.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/figma/figma.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/frame0/frame0.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src="src/new/comfyui/comfyui.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/figma/figma.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/frame0/frame0.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/icon-composer/icon-composer.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
 
 <hr>
 
@@ -62,7 +62,7 @@ Obscuran is a carefully curated icon pack for macOS, created to address the padd
 
 ### Utility
 
-<img src="src/new/crossover/crossover.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src="src/new/crossover/crossover.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/new/iterm2/iterm2.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
 
 <hr>
 
