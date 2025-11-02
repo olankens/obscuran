@@ -8,7 +8,7 @@ set -e
 # Locate repo root and icons dir
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
-ICONS_DIR="$REPO_ROOT/src/new"
+ICONS_DIR="$REPO_ROOT/src/icons"
 
 # Ensure at least one PNG exists
 if ! find "$ICONS_DIR" -type f -iname "*.png" | head -n 1 | grep -q .; then
