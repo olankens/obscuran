@@ -6,8 +6,8 @@
     {
       "layers" : [
         {
-          "image-name" : "intellij-idea.svg",
-          "name" : "intellij-idea",
+          "image-name" : "pycharm.svg",
+          "name" : "pycharm",
           "position" : {
             "scale" : 12,
             "translation-in-points" : [

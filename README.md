@@ -32,7 +32,7 @@ Obscuran is a carefully curated icon pack for macOS, created to address the padd
 
 ### Development
 
-<img src="src/icons/fork/fork.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/hoppscotch/hoppscotch.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/intellij-idea/intellij-idea.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/mqttx/mqttx.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src="src/icons/datagrip/datagrip.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/fork/fork.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/goland/goland.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/hoppscotch/hoppscotch.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/intellij-idea/intellij-idea.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/mqttx/mqttx.png" width="15.625%"/><img src="src/icons/pycharm/pycharm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/rider/rider.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/webstorm/webstorm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
 
 <hr>
 

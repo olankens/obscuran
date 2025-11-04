@@ -6,10 +6,10 @@
     {
       "layers" : [
         {
-          "image-name" : "cursor.png",
-          "name" : "cursor",
+          "image-name" : "datagrip.svg",
+          "name" : "datagrip",
           "position" : {
-            "scale" : 0.7,
+            "scale" : 12,
             "translation-in-points" : [
               0,
               0

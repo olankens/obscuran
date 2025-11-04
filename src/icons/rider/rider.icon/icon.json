@@ -6,8 +6,8 @@
     {
       "layers" : [
         {
-          "image-name" : "intellij-idea.svg",
-          "name" : "intellij-idea",
+          "image-name" : "rider.svg",
+          "name" : "rider",
           "position" : {
             "scale" : 12,
             "translation-in-points" : [
