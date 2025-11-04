@@ -9,9 +9,9 @@
           "image-name" : "calibre.svg",
           "name" : "calibre",
           "position" : {
-            "scale" : 1.25,
+            "scale" : 1.45,
             "translation-in-points" : [
-              0,
+              10,
               0
             ]
           }
