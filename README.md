@@ -8,75 +8,81 @@ Obscuran is a carefully curated icon pack for macOS, created to address the padd
 
 ### Network
 
-<img src="src/icons/chromium/chromium.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/jdownloader/jdownloader.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/joal-desktop/joal-desktop.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/netnewswire/netnewswire.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/transmission/transmission.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/chromium.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/jdownloader.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/joal-desktop.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/netnewswire.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/transmission.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 ### Social
 
-<img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 ### Finance
 
-<img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 ### Office
 
-<img src="src/icons/calibre/calibre.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/calibre.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 ### Development
 
-<img src="src/icons/android-studio/android-studio.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/appcode/appcode.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/clion/clion.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/datalore/datalore.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/datagrip/datagrip.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/dataspell/dataspell.png" width="15.625%"/><img src="src/icons/fork/fork.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/goland/goland.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/hoppscotch/hoppscotch.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/intellij-idea/intellij-idea.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/mqttx/mqttx.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/phpstorm/phpstorm.png" width="15.625%"/><img src="src/icons/pycharm/pycharm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/rider/rider.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/rubymine/rubymine.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/rustrover/rustrover.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/webstorm/webstorm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/android-studio.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/appcode.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/clion.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/datalore.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/datagrip.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/dataspell.png" width="15.625%"/><img src=".assets/fork.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/goland.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/hoppscotch.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/intellij-idea.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/mqttx.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/phpstorm.png" width="15.625%"/><img src=".assets/pycharm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/rider.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/rubymine.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/rustrover.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/webstorm.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 ### Graphics
 
-<img src="src/icons/affinity/affinity.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/comfyui/comfyui.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/figma/figma.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="src/icons/frame0/frame0.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/affinity.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/comfyui.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/figma.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/frame0.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 ### Audio & Video
 
-<img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 ### Multimedia
 
-<img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 ### Gaming
 
-<img src="src/icons/masterduel/masterduel.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/masterduel.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 ### Utility
 
-<img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/icon.png" width="15.625%"/>
+<img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
 # GUIDANCE
 
-### Create All ICNS Files
+### Create ICNS Files
 
 ```shell
 bash src/scripts/create-icns.sh
 ```
 
+### Create Thumbnail Files
+
+```shell
+bash src/scripts/create-thumbnails.sh
+```
+
 <hr>
 
-### Delete All DS_Store Files
+### Delete DS_Store Files
 
 ```shell
 find ~ -name ".DS_Store" -delete
