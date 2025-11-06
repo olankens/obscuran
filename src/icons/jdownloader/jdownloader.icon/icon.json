@@ -13,7 +13,8 @@
               "value" : "automatic"
             }
           ],
-          "glass" : false,
+          "glass" : true,
+          "hidden" : false,
           "image-name" : "jdownloader2.png",
           "name" : "jdownloader2",
           "position" : {

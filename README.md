@@ -50,7 +50,7 @@ Obscuran is a carefully curated icon pack for macOS, created to address the padd
 
 ### Multimedia
 
-<img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
+<img src=".assets/davinci-resolve.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/iina.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/template.png" width="15.625%"/>
 
 <hr>
 
