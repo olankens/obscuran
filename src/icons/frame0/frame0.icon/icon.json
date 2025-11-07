@@ -8,6 +8,11 @@
         {
           "fill-specializations" : [
             {
+              "value" : {
+                "automatic-gradient" : "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            },
+            {
               "appearance" : "dark",
               "value" : {
                 "solid" : "extended-gray:1.00000,1.00000"
