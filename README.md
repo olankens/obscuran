@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=".assets/icon-dark.png">
-      <img src=".assets/icon-light.png" width="144">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".assets/icon-dark.png">
+    <img src=".assets/icon-light.png" width="144">
+  </picture>
 </p>
 
 <h1 align="center"><samp>OBSCURAN</samp></h1>
