@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="">
+  <a href="/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=".assets/icon-dark.png">
       <img src=".assets/icon-light.png" width="144">
