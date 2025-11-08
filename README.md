@@ -1,3 +1,5 @@
+<hr>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".assets/icon-dark.png">
@@ -92,3 +94,5 @@ bash src/scripts/create-thumbnails.sh
 ```shell
 find ~ -name ".DS_Store" -delete
 ```
+
+<hr>
