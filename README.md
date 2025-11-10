@@ -1,7 +1,7 @@
 <hr>
 
 <div align="center">
-  <img src=".assets/icon.svg" width="128">
+  <img src=".assets/icon.svg" width="132">
   <h1><samp>OBSCURAN</samp></h1>
   <p>Obscuran is a carefully curated icon pack for macOS, created to address the padding issues found in many icon collections. Icons from sources like macOSicons often lack the 10% padding required by macOS Tahoe, leading to display problems. This pack provides properly formatted ICNS files with correct padding, ensuring your custom icons look crisp and professional across all macOS contexts.</p>
 </div>
